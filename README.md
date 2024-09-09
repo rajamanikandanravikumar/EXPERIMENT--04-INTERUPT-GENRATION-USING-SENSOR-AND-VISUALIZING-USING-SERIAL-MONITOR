@@ -164,7 +164,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
  ![Screenshot 2024-09-09 090834](https://github.com/user-attachments/assets/5e813f7b-d92a-4855-853b-bc18096382e3)
 
  
- ## Circuit board :
+
  
  
  
